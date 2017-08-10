@@ -16,6 +16,7 @@ git stash
 git stash apply
 git remote --> TO check repository will show origin
 git remote -v --> TO check repository will show URL
+git remote add RepoName URL --> TO add more repository
 git clone URL --> TO clone from repository
 git fetch origin --> Update but not merge
 git pull origin --> Update and merge
