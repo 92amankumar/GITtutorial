@@ -14,7 +14,13 @@ git checkout master --> main branch
 git merge MyBranch
 git stash
 git stash apply
-git remote
+git remote --> TO check repository will show origin
+git remote -v --> TO check repository will show URL
+git clone URL --> TO clone from repository
+git fetch origin --> Update but not merge
+git pull origin --> Update and merge
+git push origin master --> Push
+
 
 https://github.com/92amankumar/GITtutorial.git
 
@@ -31,3 +37,4 @@ git push -u origin master
 
 git remote add origin https://github.com/92amankumar/GITtutorial.git
 git push -u origin master
+
